@@ -1,0 +1,2 @@
+Applicartion ID From      To        Target rate         Start time      Duration        Incoming rate (w/ headers)  Incoming rate (payload)     Packets received   Data received (w/headers)   Data received (payload)     Metadata
+0               201       200       2.00 Mbit/s         1000.00 ms      280000.00 ms    2.00 Mbit/s                 1.96 Mbit/s                 46628              559.54 Mbit                 549.09 Mbit                 

@@ -1,0 +1,10 @@
+[    0.0 -     0.0] (0.0 s) :: Configure run and logs directory
+[    0.0 -     0.0] (0.0 s) :: Configure simulator
+[    0.0 -     0.0] (0.0 s) :: Setup TCP parameters
+[    0.0 -     1.2] (1.2 s) :: Read SAG application schedule
+[    1.2 -     1.2] (0.0 s) :: Remove previous SAG application log files
+[    1.2 -     1.2] (0.0 s) :: Setup SAG application applications
+[    1.2 -     1.2] (0.0 s) :: Whatever is between previous timestamp and the simulation run
+[    1.2 -   141.0] (139.7 s) :: Run simulation
+[  141.0 -   432.6] (291.6 s) :: Write SAG application log files
+[  432.6 -   432.6] (0.0 s) :: Destroy simulator

@@ -1,0 +1,10 @@
+Configure run and logs directory,321804
+Configure simulator,957712
+Setup TCP parameters,347304
+Read SAG application schedule,1234120578
+Remove previous SAG application log files,71601
+Setup SAG application applications,1237116
+Whatever is between previous timestamp and the simulation run,251703
+Run simulation,139745498145
+Write SAG application log files,291623990017
+Destroy simulator,30534888
