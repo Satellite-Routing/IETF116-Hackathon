@@ -1,0 +1,9 @@
+# Name, Orbit number, Satellite number per orbit, Phase factor, Altitude, Inclination
+
+# LEO constellation
+# FirstLayer,30, 22, 1, 550, 53.0
+FirstLayer, 20, 10, 0, 700, 65.0
+
+
+
+# MEO constellation ...
